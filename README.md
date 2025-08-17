@@ -32,7 +32,7 @@ sql-generator/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/sql-generator.git
+git clone https://github.com/indrajee2/langchain-sql-agent.git
 cd sql-generator
 ```
 
